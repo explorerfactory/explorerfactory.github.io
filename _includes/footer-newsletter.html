@@ -1,0 +1,65 @@
+<br>
+<hr>
+<h3>Join the Club</h3>
+<p>Subscribe to our free <b>Explorer Factory Club</b> to stay updated on discounts and future launches.</p>
+
+<!-- START - Brevo Form -->
+<div class="sib-form">
+  <div id="sib-form-container">
+    
+    <!-- Status Messages (Initially Hidden) -->
+    <div id="error-message" class="sib-form-message-panel" style="display:none; margin-bottom: 10px; color: #661d1d;">
+      <span class="sib-form-message-panel__inner-text">Your subscription could not be saved. Please try again.</span>
+    </div>
+    <div id="success-message" class="sib-form-message-panel" style="display:none; margin-bottom: 10px; color: #085229;">
+      <span class="sib-form-message-panel__inner-text">Your subscription has been successful.</span>
+    </div>
+
+    <div id="sib-container">
+      <form id="sib-form" method="POST" action="https://67d48aee.sibforms.com/serve/MUIFAIbM0qv0D8o4X2wkAQ3CaUbv2W3XcqQR9rHm4xLodgNDBXC_YZVIvZPMH9maNJYvjNZr1Zam_vM7JtkNUiwFIQzQ55OlRMaKg32VZgibz_UADAKFC0hLhdh9cJcprtlLKUDRQD635_P8rZuLL6qQ-qSYEPlOJYrG8u0_XND7wE8zq9jlXnPFysvk7untwZSmNshEampsM2beTg==" 
+            data-type="subscription" 
+            style="display: flex; gap: 10px; align-items: flex-start; justify-content: center; flex-wrap: wrap; width: 100%;">
+        
+        <!-- Email Input Area -->
+        <div class="sib-input sib-form-block" style="flex: 1; min-width: 240px; max-width: 400px;">
+          <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required 
+                 style="width: 100%; box-sizing: border-box; height: 44px; padding: 0 15px; border: 1px solid #ccc; border-radius: 4px; font-family: inherit;" />
+          <!-- Validation Error Label -->
+          <label class="entry__error entry__error--primary" style="display: block; font-size: 11px; margin-top: 4px; color: #661d1d;"></label>
+        </div>
+
+        <!-- Submit Button Area -->
+        <div class="sib-form-block">
+          <button class="sib-form-block__button" form="sib-form" type="submit" 
+                  style="height: 44px; white-space: nowrap; padding: 0 25px; cursor: pointer; border: none; border-radius: 4px; background-color: #333; color: #fff; font-weight: bold; font-family: inherit;">
+            SUBSCRIBE
+          </button>
+        </div>
+
+        <!-- Hidden Security/Bot Fields -->
+        <input type="text" name="email_address_check" value="" style="display:none !important;">
+        <input type="hidden" name="locale" value="en">
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Form Logic Scripts -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.LOCALE = 'en';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid.";
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank.";
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid.";
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected',
+      selectedOption: '{quantity} selected',
+      selectedOptions: '{quantity} selected',
+    }
+  };
+  var AUTOHIDE = Boolean(0);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+<!-- END - Brevo Form -->
