@@ -1,0 +1,204 @@
+#
+# STATIC PAGES
+content:
+  - name: main
+    label: Main
+    type: group
+    items:
+      - name: blog_index
+        label: blog/index.html
+        type: file
+        path: blog/index.html
+        fields:
+          - name: layout
+            type: string
+          - name: subtitle
+            type: string
+          - name: title
+            type: string
+          - name: body
+            type: rich-text
+      - name: error
+        label: 404.html
+        type: file
+        path: 404.html
+        fields:
+          - name: title
+            type: string
+          - name: body
+            type: rich-text
+      - name: after-content
+        label: _includes/footer-newsletter.html
+        type: file
+        path: _includes/footer-newsletter.html
+      - name: footer-extra
+        label: _includes/footer-extra-legal.html
+        type: file
+        path: _includes/footer-extra-legal.html
+#
+# CONTENT PAGES
+  - name: pages
+    label: Pages (Site)
+    type: collection
+    path: ""
+    exclude: [README.md, CHANGELOG.md, admin.md]
+    subfolders: false
+    filename:
+      template: "{primary}.md"
+      field: true
+    fields:
+      - name: layout
+        type: select
+        options:
+          values: [page, post, home-bloglist]
+      - name: title
+        type: string
+      - name: subtitle
+        type: string
+      - name: date
+        type: date
+      - name: last-updated
+        type: date      
+      - name: cover-img
+        type: image
+      - name: thumbnail-img
+        type: image
+      - name: tags
+        type: string
+      - name: author
+        type: select
+        options:
+          values: [Raphael]
+      - name: readtime
+        type: boolean
+        default: true
+#      - name: published
+#        type: boolean        
+      - name: body
+        type: rich-text
+      - name: share-title
+        label: share-title (SEO - If not provided, then page/post "title" or website title will be used.)
+        type: string
+      - name: share-description
+        label: share-description (SEO - If not provided, then "subtitle" will be used.)
+        type: string
+      - name: share-img
+        label: share-img (SEO - If not provided, then "cover-img" or "thumbnail-img will" be used.)
+        type: image
+      - name: social-share
+        type: boolean
+        default: false
+#
+# BLOG POST
+  - name: posts
+    label: Posts (Blog)
+    type: collection
+    path: _posts
+    fields:
+      - name: layout
+        type: select
+        options:
+          values: [page, post, home-bloglist]
+      - name: title
+        type: string
+      - name: subtitle
+        type: string
+      - name: date
+        type: date
+      - name: last-updated
+        type: date      
+      - name: cover-img
+        type: image
+      - name: thumbnail-img
+        type: image
+      - name: tags
+        type: string
+      - name: author
+        type: select
+        options:
+          values: [Raphael]
+      - name: readtime
+        type: boolean
+        default: true
+#      - name: published
+#        type: boolean        
+      - name: body
+        type: rich-text
+      - name: share-title
+        label: share-title (SEO - If not provided, then page/post "title" or website title will be used.)
+        type: string
+      - name: share-description
+        label: share-description (SEO - If not provided, then "subtitle" will be used.)
+        type: string
+      - name: share-img
+        label: share-img (SEO - If not provided, then "cover-img" or "thumbnail-img will" be used.)
+        type: image
+      - name: social-share
+        type: boolean
+        default: false
+#
+# SETTINGS
+  - name: settings
+    label: Settings
+    type: file
+    path: _config.yml
+#
+# ASSETS
+  - name: assets
+    label: Assets
+    type: group
+    items:
+      - name: css
+        label: CSS
+        type: group
+        items:
+        - name: beautifuljekyll-minimal.css
+          type: file
+          path: assets/css/beautifuljekyll-minimal.css
+          format: code
+        - name: beautifuljekyll.css
+          type: file
+          path: assets/css/beautifuljekyll.css
+          format: code
+        - name: bootstrap-social.css
+          type: file
+          path: assets/css/bootstrap-social.css
+          format: code
+        - name: beautifuljekyll.css
+          type: file
+          path: assets/css/beautifuljekyll.css
+          format: code
+        - name: pygment_highlights.css
+          type: file
+          path: staticman.css
+          format: code    
+      - name: js
+        label: JS
+        type: group
+        items:
+        - name: beautifuljekyll.js
+          type: file
+          path: assets/js/beautifuljekyll.js
+          format: code
+        - name: staticman.js
+          type: file
+          path: assets/js/staticman.js
+          format: code 
+#
+# MEDIA
+media:
+  - name: images
+    label: Images
+    input: assets/img
+    output: /assets/img
+    extensions: [jpg, jpeg, png, webp, svg, gif]
+  - name: videos
+    label: Videos
+    input: assets/vid
+    output: /assets/vid
+    extensions: [video]
+  - name: docs
+    label: Documents
+    input: assets/docs
+    output: /assets/docs
+    categories: [document]
