@@ -5,6 +5,8 @@ subtitle: Your Memories, Mapped.
 date: 2026-04-02
 last-updated: 2026-04-02
 readtime: false
+share-title: EXPLORER FACTORY | Your Memories, Mapped.
+share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
 ---
