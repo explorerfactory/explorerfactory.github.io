@@ -23,31 +23,31 @@ At **Explorer Factory**, we believe your most important stories deserve to be wo
 
 
 
-1. **The Origin Story (Birthplaces)**
+**1. The Origin Story (Birthplaces)**
 
 There is no location more foundational than where your story began. A coordinates t-shirt featuring a birthplace is a subtle, sophisticated way to honor your roots or celebrate a new addition to the family.
 
-2. **The Anchor of Love (Weddings & Anniversaries)**
+**2. The Anchor of Love (Weddings & Anniversaries)**
 
 Forget traditional jewelry for a moment. Imagine gifting your partner a hoodie with the exact coordinates of your first date or the altar where you stood. It is a private, meaningful message that only the two of you truly understand.
 
-3. **The Summit Moment (Mountaineering & Achievement)**
+**3. The Summit Moment (Mountaineering & Achievement)**
 
 For the inquisitive explorer, reaching the top is a duty. Whether it is the K2, the Matterhorn, or a personal peak, anchoring that achievement to its technical coordinates turns a piece of clothing into a trophy.
 
-4. **The Global Nomad (Travel Memories)**
+**4. The Global Nomad (Travel Memories)**
 
 Travel is a catalyst for change. Did a specific city in Japan or a beach in Portugal change your perspective? Wearing those coordinates keeps the spirit of that discovery alive in your daily life.
 
-5. **The Team Spirit (Sports & Clubs)**
+**5. The Team Spirit (Sports & Clubs)**
 
 Move beyond generic fan gear. High-precision apparel featuring the coordinates of your home stadium or the pitch where your team won the championship creates a deeper sense of belonging.
 
-6. **The "Last Hurrah" (Bachelor & Bachelorette Parties)**
+**6. The "Last Hurrah" (Bachelor & Bachelorette Parties)**
 
 For a group that has traveled the world together, matching coordinates hoodies from the weekend’s destination are far more durable and stylish than "Team Bride" shirts. They become a high-quality keepsake of the friendship, not just the party.
 
-7. **The Professional Legacy (Work & Milestones)**
+**7. The Professional Legacy (Work & Milestones)**
 
 From the headquarters of a startup you helped build to the location of a major project, coordinates are a professional "Swiss Army Knife"; versatile, clean, and a great conversation starter at networking events.
 
