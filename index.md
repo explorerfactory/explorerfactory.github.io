@@ -17,9 +17,32 @@ Every journey deserves a signature, a permanent record of where you stood and ho
 Wear the places that shaped you. Simply provide a city, monument, mountain peak, or special place, and we’ll map the exact coordinates onto your premium gear.
 
 
-| ![Name 1](PHOTO_URL_1) **Product Name 1** [Check current price](https://shop.explorerfactory.com/) | ![Name 2](PHOTO_URL_2) **Product Name 2** [Check current price](https://shop.explorerfactory.com/) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Name 3](PHOTO_URL_3) **Product Name 3** [Check current price](https://shop.explorerfactory.com/) | ![Name 4](PHOTO_URL_4) **Product Name 4** [Check current price](https://shop.explorerfactory.com/) |
+<table width="100%">
+  <tr>
+    <td align="center">
+      ![Name 1](PHOTO_URL_1)<br>
+      **Product Name 1**<br>
+      [Check current price](https://shop.explorerfactory.com/)
+    </td>
+    <td align="center">
+      ![Name 2](PHOTO_URL_2)<br>
+      **Product Name 2**<br>
+      [Check current price](https://shop.explorerfactory.com/)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      ![Name 3](PHOTO_URL_3)<br>
+      **Product Name 3**<br>
+      [Check current price](https://shop.explorerfactory.com/)
+    </td>
+    <td align="center">
+      ![Name 4](PHOTO_URL_4)<br>
+      **Product Name 4**<br>
+      [Check current price](https://shop.explorerfactory.com/)
+    </td>
+  </tr>
+</table>
 
 
 👉 [Order your memories today through our official Etsy store.](https://shop.explorerfactory.com/)
