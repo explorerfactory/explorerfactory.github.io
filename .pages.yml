@@ -28,6 +28,10 @@ content:
           - name: body
             type: rich-text
       - name: after-content
+        label: _includes/head-extra.html
+        type: file
+        path: _includes/head-extra.html
+      - name: after-content
         label: _includes/footer-newsletter.html
         type: file
         path: _includes/footer-newsletter.html
