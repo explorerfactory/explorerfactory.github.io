@@ -8,11 +8,9 @@ readtime: false
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
 ---
-### Welcome to Explorer Factory 🌍
+### Explore the Launch Collection
 
 Every journey deserves a signature, a permanent record of where you stood and how it changed you.
-
-### Explore the Launch Collection
 
 Wear the places that shaped you. Simply provide a city, monument, mountain peak, or special place, and we’ll map the exact coordinates onto your premium gear.
 
