@@ -27,7 +27,7 @@ content:
             type: string
           - name: body
             type: rich-text
-      - name: after-content
+      - name: head-extra
         label: _includes/head-extra.html
         type: file
         path: _includes/head-extra.html
