@@ -30,12 +30,16 @@
 
         <!-- Submit Button Area -->
         <div class="sib-form-block">
-          <button class="sib-form-block__button" form="sib-form" type="submit" 
-                  style="height: 42px; white-space: nowrap; padding: 0 25px; cursor: pointer; border: none; border-radius: 8px; background-color: #404040; color: #faf8f5; font-weight: bold; font-family: inherit;">
+          <button class="sib-form-block__button" 
+        form="sib-form" 
+        type="submit" 
+        onmouseover="this.style.backgroundColor='#FF7518'" 
+        onmouseout="this.style.backgroundColor='#404040'"
+        style="height: 42px; white-space: nowrap; padding: 0 25px; cursor: pointer; border: none; border-radius: 8px; background-color: #404040; color: #faf8f5; font-size: 1rem; font-weight: bold; font-family: inherit; transition: background-color 0.3s ease;">
             SUBSCRIBE
           </button>
         </div>
-
+        
         <!-- Hidden Security/Bot Fields -->
         <input type="text" name="email_address_check" value="" style="display:none !important;">
         <input type="hidden" name="locale" value="en">
