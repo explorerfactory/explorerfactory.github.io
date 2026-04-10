@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+subtitle: The blueprint of a life well-traveled.
 date: 2026-04-07
 last-updated: 2026-04-07
-readtime: true
+readtime: false
 share-title: Your Memories, Mapped.
 share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
