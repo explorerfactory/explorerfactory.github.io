@@ -38,7 +38,7 @@ social-share: false
         margin: 20px auto;
         padding: 25px;
         background-color: #FEF4DA;
-        border: 1px solid #d4cbb3;
+        border: 1px solid #e6e5e2;
         border-radius: 8px;
     }
 
@@ -50,7 +50,7 @@ social-share: false
         display: block;
         margin-bottom: 8px;
         font-weight: 600;
-        color: #4a4538;
+        color: #404040;
         font-size: 0.85rem;
         text-transform: uppercase;
         letter-spacing: 1px;
@@ -61,7 +61,7 @@ social-share: false
     textarea {
         width: 100%;
         padding: 12px;
-        border: 2px solid #e0d8c3;
+        border: 2px solid #e6e5e2;
         border-radius: 4px;
         background-color: #ffffff;
         font-size: 1rem;
@@ -72,14 +72,14 @@ social-share: false
     input:focus, 
     textarea:focus {
         outline: none;
-        border-color: #c5b283;
+        border-color: #e6e5e2;
     }
 
     button[type="submit"] {
         width: 100%;
         padding: 14px;
-        background-color: #4a4538;
-        color: #FEF4DA;
+        background-color: #404040;
+        color: #faf8f5;
         border: none;
         border-radius: 4px;
         font-size: 1rem;
@@ -89,7 +89,7 @@ social-share: false
     }
 
     button[type="submit"]:hover {
-        background-color: #2d2a22;
+        background-color: #FF7518;
     }
 
     .h-captcha {
