@@ -13,11 +13,15 @@ social-share: false
 
 **Disclaimer:** The content of this website is created with the utmost care. However, Explorer Factory cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible for my own content on these pages according to general laws.
 
+
+
 **1. Website Owner and Responsibility**
 
 Owner and Content: Raphael Senft, Switzerland. Email: [hello@explorerfactory.com](mailto:hello@raphaelsenft.com)  
 Domain Registrar: Infomaniak Network SA, Switzerland. Website: [https://infomaniak.com](https://infomaniak.com)  
 Hosting Provider: GitHub Inc., United States. Website: [https://github.com](https://github.com)
+
+
 
 **2. Credits**
 
