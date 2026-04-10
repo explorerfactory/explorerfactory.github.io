@@ -6,9 +6,9 @@ content:
     type: group
     items:
       - name: blog_index
-        label: _posts/index.html
+        label: blog/index.html
         type: file
-        path: _posts/index.html
+        path: blog/index.html
         fields:
           - name: layout
             type: string
