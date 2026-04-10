@@ -23,7 +23,7 @@ navbar-links:
   Base: "index"
   Shop: "https://shop.explorerfactory.com"
   About: "about"
-  Blog: "blog/index"
+  Blog: "_posts/index"
 
 ################
 # --- Logo --- #
@@ -92,7 +92,7 @@ rss-description: Explorer Factory
 ###########################
 
 # Move the blog to another page instead of having it on the home page
-paginate_path: "/blog/page:num/"
+paginate_path: "/_posts/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -265,7 +265,7 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Zurich"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
