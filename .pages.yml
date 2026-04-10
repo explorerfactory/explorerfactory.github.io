@@ -200,6 +200,11 @@ media:
     input: assets/img
     output: /assets/img
     extensions: [jpg, jpeg, png, webp, svg, gif]
+  - name: favicons
+    label: Favicons
+    input: assets/favicon
+    output: /assets/favicon
+    extensions: [ico, png, svg, manifest]
   - name: videos
     label: Videos
     input: assets/vid
