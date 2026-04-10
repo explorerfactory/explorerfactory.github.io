@@ -16,17 +16,17 @@ content:
             type: string
           - name: title
             type: string
-          - name: body
-            type: rich-text
       - name: error
         label: 404.html
         type: file
         path: 404.html
         fields:
+          - name: layout
+            type: string
           - name: title
             type: string
-          - name: body
-            type: rich-text
+          - name: permalink
+            type: string
       - name: head-extra
         label: _includes/head-extra.html
         type: file
