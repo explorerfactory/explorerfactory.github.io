@@ -16,6 +16,8 @@ content:
             type: string
           - name: title
             type: string
+          - name: body
+            type: raw
       - name: error
         label: 404.html
         type: file
@@ -27,6 +29,8 @@ content:
             type: string
           - name: permalink
             type: string
+          - name: body
+            type: raw
       - name: head-extra
         label: _includes/head-extra.html
         type: file
