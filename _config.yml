@@ -13,7 +13,7 @@
 title: Explorer Factory
 
 # Your name to show in the footer
-author: © Explorer Factory™
+author: © Explorer Factory
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,6 +24,7 @@ navbar-links:
   Shop: "https://shop.explorerfactory.com"
   About: "about"
   Blog: "blog/index"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
