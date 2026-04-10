@@ -28,13 +28,13 @@ social-share: false
     <div class="form-group">
         <label for="subject">Subject</label>
         <select id="subject" name="subject" required>
-            <option value="" disabled selected>Select a topic...</option>
-            <option value="Order Inquiry">Order Status / Inquiry</option>
-            <option value="Product Question">Product Information</option>
-            <option value="Shipping & Returns">Shipping & Returns</option>
-            <option value="Partnership">Partnership / Collaboration</option>
-            <option value="Technical Issue">Website / Technical Issue</option>
-            <option value="General Inquiry">General Question</option>
+            <option value="[ExplorerFactory.com] New contact form message" disabled selected>Select a topic...</option>
+            <option value="[ExplorerFactory.com] Order Inquiry">Order Status / Inquiry</option>
+            <option value="[ExplorerFactory.com] Product Question">Product Information</option>
+            <option value="[ExplorerFactory.com] Shipping & Returns">Shipping & Returns</option>
+            <option value="[ExplorerFactory.com] Partnership">Partnership / Collaboration</option>
+            <option value="[ExplorerFactory.com] Technical Issue">Website / Technical Issue</option>
+            <option value="[ExplorerFactory.com] General Inquiry">General Question</option>
         </select>
     </div>
 
