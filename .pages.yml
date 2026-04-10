@@ -95,7 +95,7 @@ content:
     label: Pages (Site)
     type: collection
     path: ""
-    exclude: [README.md, CHANGELOG.md, admin.md, git.md, contact.html]
+    exclude: [README.md, CHANGELOG.md, admin.md, git.md, contact.md]
     subfolders: false
     filename:
       template: "{primary}.md"
