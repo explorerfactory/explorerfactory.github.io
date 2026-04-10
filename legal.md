@@ -11,13 +11,15 @@ social-share: false
 **Address:** Switzerland  
 **Email:** [hello@explorerfactory.com](mailto:hello@explorerfactory.com)
 
-**Disclaimer:** The content of this shop is created with the utmost care. However, Explorer Factory cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible for my own content on these pages according to general laws.
+**Disclaimer:** The content of this website is created with the utmost care. However, Explorer Factory cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible for my own content on these pages according to general laws.
 
-**1. Website Owner and Responsibility**  
+**1. Website Owner and Responsibility**
+
 Owner and Content: Raphael Senft, Switzerland. Email: [hello@explorerfactory.com](mailto:hello@raphaelsenft.com)  
 Domain Registrar: Infomaniak Network SA, Switzerland. Website: [https://infomaniak.com](https://infomaniak.com)  
 Hosting Provider: GitHub Inc., United States. Website: [https://github.com](https://github.com)
 
-**2. Credits**  
+**2. Credits**
+
 The following assets are used on this website. Attribution is provided to the respective owners under their specific licenses: [Jekyll](https://jekyllrb.com), [Beautiful Jekyll](https://beautifuljekyll.com), [Google Fonts](https://fonts.google.com/ "Google Fonts"), [Unsplash](https://unsplash.com/ "Unsplash"), [Storyset](https://storyset.com/ "Storyset"), [Unicode emojis](https://home.unicode.org/emoji/about-emoji/), [Web3Forms](https://web3forms.com/), [Brevo](https://brevo.com).  
 **Note:** Any additional third-party assets not explicitly listed are likewise used in accordance with their respective licenses and terms of service.
