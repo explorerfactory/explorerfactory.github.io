@@ -61,7 +61,7 @@ social-share: false
     textarea {
         width: 100%;
         padding: 12px;
-        border: 2px solid #e6e5e2;
+        border: 1px solid #e6e5e2;
         border-radius: 4px;
         background-color: #ffffff;
         font-size: 1rem;
@@ -81,7 +81,7 @@ social-share: false
         background-color: #404040;
         color: #faf8f5;
         border: none;
-        border-radius: 4px;
+        border-radius: 8px;
         font-size: 1rem;
         font-weight: bold;
         cursor: pointer;
