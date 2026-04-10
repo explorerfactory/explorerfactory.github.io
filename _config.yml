@@ -13,7 +13,7 @@
 title: Explorer Factory
 
 # Your name to show in the footer
-author: © Explorer Factory
+author: © Explorer Factory™
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,7 +23,7 @@ navbar-links:
   Base: "index"
   Shop: "https://shop.explorerfactory.com"
   About: "about"
-  Blog: "_posts/index"
+  Blog: "blog/index"
 
 ################
 # --- Logo --- #
@@ -63,7 +63,7 @@ rss-description: EXPLORER FACTORY | Your Memories, Mapped.
 ###########################
 
 # Move the blog to another page instead of having it on the home page
-paginate_path: "/_posts/page:num/"
+paginate_path: "/blog/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
