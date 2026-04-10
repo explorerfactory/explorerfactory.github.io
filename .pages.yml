@@ -18,6 +18,52 @@ content:
             type: string
           - name: body
             type: raw
+      - name: contact
+        label: contact.html
+        type: file
+        path: contact.html
+        fields:
+          - name: layout
+            type: select
+            options:
+              values: [page, post, home-bloglist]
+          - name: title
+            type: string
+          - name: subtitle
+            type: string
+          - name: date
+            type: date
+          - name: last-updated
+            type: date      
+          - name: cover-img
+            type: image
+          - name: thumbnail-img
+            type: image
+          - name: tags
+            type: string
+          - name: author
+            type: select
+            options:
+              values: [Raphael]
+          - name: readtime
+            type: boolean
+            default: true
+    #      - name: published
+    #        type: boolean        
+          - name: body
+            type: raw
+          - name: share-title
+            label: share-title (SEO - If not provided, then page/post "title" or website title will be used.)
+            type: string
+          - name: share-description
+            label: share-description (SEO - If not provided, then "subtitle" will be used.)
+            type: string
+          - name: share-img
+            label: share-img (SEO - If not provided, then "cover-img" or "thumbnail-img will" be used.)
+            type: image
+          - name: social-share
+            type: boolean
+            default: false            
       - name: error
         label: 404.html
         type: file
@@ -49,7 +95,7 @@ content:
     label: Pages (Site)
     type: collection
     path: ""
-    exclude: [README.md, CHANGELOG.md, admin.md, git.md]
+    exclude: [README.md, CHANGELOG.md, admin.md, git.md, contact.html]
     subfolders: false
     filename:
       template: "{primary}.md"
