@@ -53,9 +53,8 @@ From the headquarters of a startup you helped build to the location of a major p
 
 Knowing the *why* is the first step; our job is to handle the *how*. At Explorer Factory, we don’t just print numbers; we create a physical archive. To ensure your story is told with the precision it deserves, we’ve developed a dual-layer design philosophy:
 
-**The Front: Your Technical Signature:** We place the high-precision coordinates on the front in a clean, minimalist font. It acts as a conversation starter, a subtle hint at a deeper story that only those who ask will truly know.
-
-**The Back: The Full Perspective (Optional):** For those who want to provide the full context, we offer a high-detail map print on the back. While the coordinates represent the "Technical Truth," the map provides the "Visual Memory," showing the terrain and streets of your chosen location.
+- **The Front: Your Technical Signature:** We place the high-precision coordinates on the front in a clean, minimalist font. It acts as a conversation starter, a subtle hint at a deeper story that only those who ask will truly know.
+- **The Back: The Full Perspective (Optional):** For those who want to provide the full context, we offer a high-detail map print on the back. While the coordinates represent the "Technical Truth," the map provides the "Visual Memory," showing the terrain and streets of your chosen location.
 
 
 
