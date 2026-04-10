@@ -19,9 +19,9 @@ content:
           - name: body
             type: raw
       - name: contact
-        label: contact.html
+        label: contact.md
         type: file
-        path: contact.html
+        path: contact.md
         fields:
           - name: layout
             type: select
