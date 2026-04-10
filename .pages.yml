@@ -18,6 +18,18 @@ content:
             type: string
           - name: body
             type: raw
+          - name: share-title
+            label: share-title (SEO - If not provided, then page/post "title" or website title will be used.)
+            type: string
+          - name: share-description
+            label: share-description (SEO - If not provided, then "subtitle" will be used.)
+            type: string
+          - name: share-img
+            label: share-img (SEO - If not provided, then "cover-img" or "thumbnail-img will" be used.)
+            type: image
+          - name: social-share
+            type: boolean
+            default: false    
       - name: contact
         label: contact.md
         type: file
@@ -77,6 +89,18 @@ content:
             type: string
           - name: body
             type: raw
+          - name: share-title
+            label: share-title (SEO - If not provided, then page/post "title" or website title will be used.)
+            type: string
+          - name: share-description
+            label: share-description (SEO - If not provided, then "subtitle" will be used.)
+            type: string
+          - name: share-img
+            label: share-img (SEO - If not provided, then "cover-img" or "thumbnail-img will" be used.)
+            type: image
+          - name: social-share
+            type: boolean
+            default: false    
       - name: head-extra
         label: _includes/head-extra.html
         type: file
