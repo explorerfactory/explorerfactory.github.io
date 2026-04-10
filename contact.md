@@ -29,7 +29,7 @@ social-share: false
 
     <div class="h-captcha" data-captcha="true"></div>
 
-    <button type="submit">Submit</button>
+    <button type="submit">SEND</button>
 </form>
 
 <style>
@@ -62,7 +62,7 @@ social-share: false
         width: 100%;
         padding: 12px;
         border: 1px solid #e6e5e2;
-        border-radius: 4px;
+        border-radius: 8px;
         background-color: #ffffff;
         font-size: 1rem;
         box-sizing: border-box;
