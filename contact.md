@@ -26,8 +26,8 @@ social-share: false
 
     <div class="form-group">
         <label for="subject">Subject</label>
-        <select id="subject" name="subject" onchange="this.classList.add('selected')">
-            <option value="[ExplorerFactory.com] New contact form message" disabled selected>Select a topic...</option>
+        <select id="subject" name="subject" required>
+            <option value="" disabled selected>Select a topic...</option>
             <option value="[ExplorerFactory.com] Order Inquiry">Order Status / Inquiry</option>
             <option value="[ExplorerFactory.com] Product Question">Product Information</option>
             <option value="[ExplorerFactory.com] Shipping & Returns">Shipping & Returns</option>
