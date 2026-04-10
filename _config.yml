@@ -22,8 +22,8 @@ author: © Explorer Factory
 navbar-links:
   Base: "index"
   Shop: "https://shop.explorerfactory.com"
-  About: "about"
   Blog: "blog/index"
+  About: "about"
   Contact: "contact"
 
 ################
