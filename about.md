@@ -9,9 +9,9 @@ share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
 ---
-### The Story
-
 Founded by a Swiss traveler and global citizen, Explorer Factory is the result of decades spent navigating off-the-beaten-path terrain.
+
+### The Story
 
 Explorer Factory is a brand for the inquisitive explorer who views the world not as a series of tourist stops, but as a vast grid of potential stories. With a deep belief that travel is a sustainable catalyst for change, the founder’s mission is to connect ideas across borders and provide the tools for others to do the same. This isn't just about moving through the world; it’s about understanding the coordinates of your own journey.
 
