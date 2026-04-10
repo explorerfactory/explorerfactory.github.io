@@ -13,7 +13,7 @@ social-share: false
 <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
 
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
-    <input type="hidden" name="subject" value="[ExplorerFactory.com] New contact form message">
+    <!-- Web3Forms will now use the "subject" from the dropdown automatically -->
 
     <div class="form-group">
         <label for="name">Name</label>
@@ -23,6 +23,19 @@ social-share: false
     <div class="form-group">
         <label for="email">Email</label>
         <input type="email" id="email" name="email" placeholder="Your email address" required>
+    </div>
+
+    <div class="form-group">
+        <label for="subject">Subject</label>
+        <select id="subject" name="subject" required>
+            <option value="" disabled selected>Select a topic...</option>
+            <option value="Order Inquiry">Order Status / Inquiry</option>
+            <option value="Product Question">Product Information</option>
+            <option value="Shipping & Returns">Shipping & Returns</option>
+            <option value="Partnership">Partnership / Collaboration</option>
+            <option value="Technical Issue">Website / Technical Issue</option>
+            <option value="General Inquiry">General Question</option>
+        </select>
     </div>
 
     <div class="form-group">
@@ -59,8 +72,10 @@ social-share: false
         letter-spacing: 1px;
     }
 
+    /* Added select here to match your other inputs */
     input[type="text"],
     input[type="email"],
+    select, 
     textarea {
         width: 100%;
         padding: 12px;
@@ -68,14 +83,23 @@ social-share: false
         border-radius: 8px;
         background-color: #ffffff;
         font-size: 1rem;
+        color: #404040;
         box-sizing: border-box;
         transition: border-color 0.3s ease;
+        font-family: inherit;
+    }
+
+    /* Ensure the dropdown height matches the inputs exactly */
+    select {
+        height: 46px; 
+        cursor: pointer;
     }
 
     input:focus, 
+    select:focus,
     textarea:focus {
         outline: none;
-        border-color: #e6e5e2;
+        border-color: #404040; /* Darker border on focus for better UX */
     }
 
     button[type="submit"] {
