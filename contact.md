@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Contact
-subtitle: Please fill in this form and we will get back to you asap.
+subtitle: Questions or feedback? Reach out below and we'll get back to you
+  within 24 hours.
 date: 2026-04-10
 last-updated: 2026-04-10
 readtime: false
