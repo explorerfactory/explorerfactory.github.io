@@ -13,7 +13,6 @@ social-share: false
 <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
 
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
-    <!-- Web3Forms will now use the "subject" from the dropdown automatically -->
 
     <div class="form-group">
         <label for="name">Name</label>
@@ -27,7 +26,7 @@ social-share: false
 
     <div class="form-group">
         <label for="subject">Subject</label>
-        <select id="subject" name="subject" required>
+        <select id="subject" name="subject" onchange="this.classList.add('selected')">
             <option value="[ExplorerFactory.com] New contact form message" disabled selected>Select a topic...</option>
             <option value="[ExplorerFactory.com] Order Inquiry">Order Status / Inquiry</option>
             <option value="[ExplorerFactory.com] Product Question">Product Information</option>
@@ -72,7 +71,6 @@ social-share: false
         letter-spacing: 1px;
     }
 
-    /* Added select here to match your other inputs */
     input[type="text"],
     input[type="email"],
     select, 
@@ -83,23 +81,31 @@ social-share: false
         border-radius: 8px;
         background-color: #ffffff;
         font-size: 1rem;
-        color: #404040;
         box-sizing: border-box;
         transition: border-color 0.3s ease;
         font-family: inherit;
     }
 
-    /* Ensure the dropdown height matches the inputs exactly */
+    /* Initial state for select (matches placeholder gray) */
     select {
         height: 46px; 
         cursor: pointer;
+        color: #a9a9a9;
     }
+
+    /* Active state for select (matches input text color) */
+    select.selected {
+        color: #404040;
+    }
+
+    /* Placeholder colors for other inputs */
+    ::placeholder { color: #a9a9a9; }
 
     input:focus, 
     select:focus,
     textarea:focus {
         outline: none;
-        border-color: #404040; /* Darker border on focus for better UX */
+        border-color: #404040;
     }
 
     button[type="submit"] {
