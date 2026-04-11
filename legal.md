@@ -25,5 +25,5 @@ Hosting Provider: GitHub Inc., United States. Website: [https://github.com](http
 
 **2. Credits**
 
-The following assets are used on this website. Attribution is provided to the respective owners under their specific licenses: [Jekyll](https://jekyllrb.com), [Beautiful Jekyll](https://beautifuljekyll.com), [Pages CMS](https://pagescms.org), [Google Fonts](https://fonts.google.com/ "Google Fonts"), [Unsplash](https://unsplash.com/ "Unsplash"), [Storyset](https://storyset.com/ "Storyset"), [Unicode emojis](https://home.unicode.org/emoji/about-emoji/), [Web3Forms](https://web3forms.com/), [Brevo](https://brevo.com).  
+The following assets are used on this website. Attribution is provided to the respective owners under their specific licenses: [Jekyll](https://jekyllrb.com), [Beautiful Jekyll](https://beautifuljekyll.com), [Pages CMS](https://pagescms.org), [Google Fonts](https://fonts.google.com/ "Google Fonts"), [Unsplash](https://unsplash.com/ "Unsplash"), [Storyset](https://storyset.com/ "Storyset"), [Unicode emojis](https://home.unicode.org/emoji/about-emoji/), [Web3Forms](https://web3forms.com/), [hCaptcha](https://www.hcaptcha.com), [Brevo](https://brevo.com), [Axeptio](https://axeptio.eu/).  
 **Note:** Any additional third-party assets not explicitly listed are likewise used in accordance with their respective licenses and terms of service.
