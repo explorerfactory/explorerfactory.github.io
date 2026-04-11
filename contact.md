@@ -16,18 +16,17 @@ social-share: false
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
 
     <div class="form-group">
-        <h3>Name</h3>
-        <label for="name">Name</label>
+        <label><h3>Name</h3></label>
         <input type="text" id="name" name="name" placeholder="Your name" required>
     </div>
 
     <div class="form-group">
-        <label for="email">Email</label>
+        <label><h3>Email</h3></label>
         <input type="email" id="email" name="email" placeholder="Your email address" required>
     </div>
 
     <div class="form-group">
-        <label for="subject">Subject</label>
+        <label><h3>Subject</h3></label>
         <select id="subject" name="subject" required>
             <option value="" disabled selected>Select a topic...</option>
             <option value="[ExplorerFactory.com] Order Inquiry">Order Status / Inquiry</option>
@@ -40,7 +39,7 @@ social-share: false
     </div>
 
     <div class="form-group">
-        <label for="message">Message</label>
+        <label><h3>Message</h3></label>
         <textarea id="message" name="message" rows="3" placeholder="Your message" style="resize: none;" oninput="this.style.height = 'auto'; this.style.height = (this.scrollHeight) + 'px';" required></textarea>
     </div>
 
@@ -61,16 +60,6 @@ social-share: false
 
     .form-group {
         margin-bottom: 20px;
-    }
-
-    label {
-        display: block;
-        margin-bottom: 8px;
-        font-weight: 600;
-        color: #404040;
-        font-size: 0.85rem;
-        text-transform: uppercase;
-        letter-spacing: 1px;
     }
 
     input[type="text"],
