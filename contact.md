@@ -13,6 +13,8 @@ social-share: false
 ---
 <h3>Get in touch</h3>
 
+<p>Please fill in the form below</p>
+
 <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
 
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
