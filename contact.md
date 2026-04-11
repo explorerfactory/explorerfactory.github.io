@@ -11,9 +11,7 @@ share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
 ---
-<h3>Get in touch</h3>
-
-<p>Please fill in the form below</p>
+<h3>Please fill in the form</h3>
 
 <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
 
