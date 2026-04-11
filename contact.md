@@ -11,6 +11,8 @@ share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
 ---
+<h3>Get in touch</h3>
+
 <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
 
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
@@ -21,12 +23,12 @@ social-share: false
     </div>
 
     <div class="form-group">
-        <label><h3>Email</h3></label>
+        <label><h4>Email</h4></label>
         <input type="email" id="email" name="email" placeholder="Your email address" required>
     </div>
 
     <div class="form-group">
-        <label><h3>Subject</h3></label>
+        <label><h4>Subject</h4></label>
         <select id="subject" name="subject" required>
             <option value="" disabled selected>Select a topic...</option>
             <option value="[ExplorerFactory.com] Order Inquiry">Order Status / Inquiry</option>
@@ -39,7 +41,7 @@ social-share: false
     </div>
 
     <div class="form-group">
-        <label><h3>Message</h3></label>
+        <label><h4>Message</h4></label>
         <textarea id="message" name="message" rows="3" placeholder="Your message" style="resize: none;" oninput="this.style.height = 'auto'; this.style.height = (this.scrollHeight) + 'px';" required></textarea>
     </div>
 
