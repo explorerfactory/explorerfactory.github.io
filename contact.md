@@ -16,6 +16,7 @@ social-share: false
     <input type="hidden" name="access_key" value="6c9b08e4-96b1-4f4e-a69c-7daf8d88e9ba">
 
     <div class="form-group">
+        <h3>Name</h3>
         <label for="name">Name</label>
         <input type="text" id="name" name="name" placeholder="Your name" required>
     </div>
