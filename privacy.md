@@ -36,7 +36,7 @@ Information about my customers is important to my business. I share your persona
 
 - **Etsy:** I share information with Etsy as necessary to provide you my services and comply with my obligations under the Etsy Seller Policy.
 - **Service Providers:** I engage certain trusted third parties to perform functions and provide services to my shop, specifically Print-on-Demand partners (e.g., Printful) and shipping carriers. I share your name and address with these partners only to the extent necessary to perform these services.
-- **Data Processing:** I use the address provided to determine geographic coordinates and generate custom map designs. This process is handled internally or via secure design tools; your specific personal address is **not** shared with the OpenStreetMap Foundation.
+- **Data Processing:** I use the address provided to determine geographic coordinates and generate custom map designs. This process is handled internally or via secure design tools; your specific personal address is not shared with the OpenStreetMap Foundation.
 - **International Data Transfers:** As I use Print-on-Demand partners based in the USA, your data may be transferred to and processed in a country outside of Switzerland or the EEA. I rely on the Swiss-U.S. Data Privacy Framework or Standard Contractual Clauses to ensure your data is protected according to Swiss and EU standards.
 - **Compliance with Laws:** I may share your information if I have a good faith belief that it is reasonably necessary to respond to legal processes, government requests, or to protect the rights, property, and safety of my customers.
 
