@@ -8,7 +8,7 @@ social-share: false
 ---
 **Brand Name:** Explorer Factory™  
 **Legal Representative:** Raphael Senft  
-**Address:** Switzerland  
+**Address:** Stöberstrasse 38, 4055 Basel, Switzerland  
 **Email:** [hello@explorerfactory.com](mailto:hello@explorerfactory.com)
 
 **Disclaimer:** The content of this website is created with the utmost care. However, Explorer Factory cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible for my own content on these pages according to general laws.
