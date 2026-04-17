@@ -1,0 +1,22 @@
+/* This goes in your .css file */
+.discover-button {
+  display: inline-block;
+  height: 44px;
+  line-height: 44px;      /* Centers text vertically */
+  padding: 0 25px;
+  background-color: #404040;
+  color: #faf8f5 !important; /* Forces the color even if your site has link defaults */
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;  /* Removes the link underline */
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.discover-button:hover {
+  background-color: #FF7518;
+}
