@@ -26,7 +26,7 @@ It begins with the courage to step into the unknown. We celebrate the restless s
 **🗺️ Mapped.**  
 Precision is our heritage. We believe in the power of the coordinate: the technical truth of a location. By anchoring a memory to a specific point on Earth, we transform a fleeting moment into a definitive fact.
 
-**📌 Memorable.**  
+**📌 Legacy.**  
 We create the physical proof of your journey. Our mission is to ensure that the places that shaped your perspective remain a part of your daily life. We don’t just record travel; we preserve the essence of discovery, ensuring that your most important routes are never lost to time.  
 
 > **Start Mapping Your Journey. 💚**  
