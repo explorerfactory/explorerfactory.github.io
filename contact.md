@@ -6,7 +6,7 @@ subtitle: Questions or feedback? Reach out below and we'll get back to you
 date: 2026-04-10
 last-updated: 2026-04-10
 readtime: false
-share-title: Your Memories, Mapped.
+share-title: Your Coordinates. Your Legacy.
 share-description: Custom Coordinate Clothing & Gear | Gifts for Travelers
 share-img: /assets/img/explorerfactory_logo.png
 social-share: false
