@@ -34,4 +34,5 @@ Wear the places that shaped you. Simply provide a city, monument, mountain peak,
 
 [DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
-***#MemoriesMapped***
+> ***#MemoriesMapped***
+
