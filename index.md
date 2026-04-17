@@ -17,10 +17,10 @@ Every journey deserves a signature, a permanent record of where you stood and ho
 Wear the places that shaped you. Simply provide a city, monument, mountain peak, or special place, and we’ll map the exact coordinates onto your premium gear.
 
 ![Photo Name 1](PHOTO_URL_1)
-<a href="https://shop.explorerfactory.com/" class="discover-button">DISCOVER</a>
+[DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
 ![Photo Name 2](PHOTO_URL_2)
-<a href="https://shop.explorerfactory.com/" class="discover-button">DISCOVER</a>
+[DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
 
 | ![Name 1](PHOTO_URL_1)**[Product Name 1](https://shop.explorerfactory.com/)** | ![Name 2](PHOTO_URL_2)**[Product Name 2](https://shop.explorerfactory.com/)** |
