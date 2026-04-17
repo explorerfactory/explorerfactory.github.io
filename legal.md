@@ -7,6 +7,7 @@ readtime: true
 social-share: false
 ---
 **Brand Name:** Explorer Factory™  
+**Brand Slogan:** Your Coordinates. Your Legacy.  
 **Legal Representative:** Raphael Senft  
 **Address:** Stöberstrasse 38, 4055 Basel, Switzerland  
 **Email:** [hello@explorerfactory.com](mailto:hello@explorerfactory.com)
