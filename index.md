@@ -34,4 +34,5 @@ Wear the places that shaped you. Simply provide a city, monument, mountain peak,
 
 [DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
-**👉 *#CoordinatesLegacy*** - *Browse our latest designs and customize your own coordinates today.*
+**#CoordinatesLegacy**  
+*Browse our latest designs and customize your own coordinates today.*
