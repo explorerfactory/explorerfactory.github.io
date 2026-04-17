@@ -68,4 +68,4 @@ Finding a gift that is both personal and high-quality is a challenge. By choosin
 
 Every journey deserves a record. Whether you are buying for yourself or gifting a memory to someone else, our collection is built for the inquisitive explorer who values both style and substance.
 
-**👉 [Explore the Collection on Etsy](https://shop.explorerfactory.com/)** - *Browse our latest designs and customize your own coordinates today.*
+**👉 [Explore the Collection](https://shop.explorerfactory.com/)** - *Browse our latest designs and customize your own coordinates today.*
