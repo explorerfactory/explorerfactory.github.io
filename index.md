@@ -12,26 +12,26 @@ social-share: false
 ---
 Every journey deserves a signature, a permanent record of where you stood and how it changed you.
 
-### *Browse our latest designs and customize your own coordinates today.*
+### Browse our latest designs and customize your own coordinates today.
 
 Wear the places that shaped you. Simply provide a city, monument, mountain peak, or special place, and we’ll map the exact coordinates onto your premium gear.
 
-![Photo Name 1](PHOTO_URL_1)
+***ORIGINAL***
 
-
-
-[DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
-
-![Photo Name 2](PHOTO_URL_2)
-
-
+![Discover the Original collection](PHOTO_URL_1)
 
 [DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
+***PREMIUM ORGANIC***
 
-| ![Name 1](PHOTO_URL_1)**[Product Name 1](https://shop.explorerfactory.com/)** | ![Name 2](PHOTO_URL_2)**[Product Name 2](https://shop.explorerfactory.com/)** |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Name 3](PHOTO_URL_3)**[Product Name 3](https://shop.explorerfactory.com/)** | ![Name 4](PHOTO_URL_4)**[Product Name 4](https://shop.explorerfactory.com/)** |
+![Discover the Premium Organic collection](PHOTO_URL_2)
 
+[DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
-**👉 [Explore the Collection on Etsy](https://shop.explorerfactory.com/)** - *Browse our latest designs and customize your own coordinates today.*
+***ESSENTIALS***
+
+![Discover the Essentials collection](PHOTO_URL_3)
+
+[DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
+
+***#MemoriesMapped***
