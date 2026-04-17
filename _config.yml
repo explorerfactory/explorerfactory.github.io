@@ -259,8 +259,8 @@ defaults:
     values:
       layout: "page"
       full-width: false
-      css: [custom.css]
-      js: [custom.js]
+      css: [/assets/css/custom.css]
+      js: [/assets/css/custom.js]
       head-extra: [head-extra.html]
       after-content: [footer-newsletter.html]
       footer-extra: [footer-extra-legal.html]
