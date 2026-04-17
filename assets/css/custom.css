@@ -1,5 +1,6 @@
 .discover-button {
   display: inline-block;
+  vertical-align: middle;
   height: 44px;
   line-height: 44px;
   padding: 0 25px;
@@ -17,6 +18,10 @@
   transition: background-color 0.3s ease;
   text-align: center;
   font-family: inherit;
+
+  /* Adds a little space around the button */
+  margin: 10px 0;
+
 }
 
 /* Ensure the underline doesn't come back on hover */
