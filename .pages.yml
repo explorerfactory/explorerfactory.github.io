@@ -252,12 +252,16 @@ content:
           format: code
         - name: pygment_highlights.css
           type: file
-          path: staticman.css
+          path: assets/css/pygment_highlights.css
           format: code    
       - name: js
         label: JS
         type: group
         items:
+        - name: custom.js
+          type: file
+          path: assets/js/custom.js
+          format: code       
         - name: beautifuljekyll.js
           type: file
           path: assets/js/beautifuljekyll.js
