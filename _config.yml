@@ -260,6 +260,7 @@ defaults:
       layout: "page"
       full-width: false
       head-extra: [head-extra.html]
+      css: [style.css]
       after-content: [footer-newsletter.html]
       footer-extra: [footer-extra-legal.html]
 
