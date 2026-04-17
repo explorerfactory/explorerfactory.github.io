@@ -230,6 +230,10 @@ content:
         label: CSS
         type: group
         items:
+        - name: custom.css
+          type: file
+          path: assets/css/custom.css
+          format: code        
         - name: beautifuljekyll-minimal.css
           type: file
           path: assets/css/beautifuljekyll-minimal.css
