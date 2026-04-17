@@ -18,7 +18,7 @@ Wear the places that shaped you. Simply provide a city, monument, mountain peak,
 
 ***ORIGINAL***
 
-![Discover the Original collection](PHOTO_URL_1)
+![Discover the Original collection](PHOTO_URL_1) ![Discover the Original collection](PHOTO_URL_1)
 
 [DISCOVER](https://shop.explorerfactory.com/){: .discover-button}
 
